@@ -4,9 +4,6 @@
  <font color="#f00">Deadline: 2023/10/23 23:59</font>
 
 ---
-[TOC]
-
----
 
 ## 1. Overview 
 
@@ -203,9 +200,6 @@ ID_HW1.zip (root)
 |_ID_report.pdf
 |_...(optional)
 ```
-#### b. Submit the archive through the [E3 platform](https://e3.nycu.edu.tw/login/index.php) before deadline.
-
-If you have any questions about this assignment, please feel free to contact with TA, Pin Chun Chen, through email cpc17422@gmail.com
 
 ---
 ## 6. References
