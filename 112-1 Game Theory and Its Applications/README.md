@@ -3,3 +3,4 @@
 
 ## 作業說明
 * Lab1: Fictitious Play
+* Lab2: Graph Problem
