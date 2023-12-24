@@ -5,4 +5,4 @@
 * Lab1: Fictitious Play
   * 100/100
 * Lab2: Graph Problem
-  * 96/100 (MIS-based IDS模擬多次的結果要取max而非min，但論文是寫越小越好，不該扣我分的。)
+  * 96/100 (MIS-based IDS模擬多次的結果要取max而非min，但論文是寫越小越好，因此這邊其實不該扣我分的。)
